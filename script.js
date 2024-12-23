@@ -40,6 +40,70 @@ const topicsContent = {
         <li><strong>Plant Cells</strong>: Have a cell wall, chloroplasts, and large central vacuoles.</li>
         <li><strong>Animal Cells</strong>: Lack cell walls and chloroplasts but have centrioles.</li>
       </ul>
+
+<strong>The Cell – Structure and Functions</strong>
+
+<p>The study of cell structure and function focuses on understanding the differences and similarities between prokaryotic and eukaryotic cells, their unique features, and their roles in biological systems.</p>  
+
+Prokaryotes:
+
+<p>Prokaryotes are organisms whose cells lack a membrane-bound nucleus and organelles. They are some of the earliest and most resilient forms of life.</p>  
+
+<strong>Key Features:</strong>
+<ul>  
+  <li><strong>Single-celled organisms:</strong> Usually exist as independent cells.</li>  
+  <li><strong>Cell Walls:</strong> Made of peptidoglycan in bacteria.</li>  
+  <li><strong>Lack membrane-bound organelles:</strong> Genetic material is free-floating in the cytoplasm.</li>  
+  <li><strong>Shapes and Sizes:</strong> Includes cocci (spherical), bacilli (rod-shaped), vibrio (comma-shaped), spirochete (wavy), and spirillum (corkscrew-shaped).</li>  
+  <li><strong>Adaptations:</strong> Archaea thrive in extreme environments like hot springs and hydrothermal vents.</li>  
+</ul>  
+
+<strong>Eukaryotes:</strong>
+
+<p>Eukaryotes are more complex organisms whose cells have membrane-bound nuclei and organelles that compartmentalize functions.</p>  
+
+<strong>Key Features:</strong>
+<ul>  
+  <li><strong>Membrane-bound nucleus:</strong> Houses genetic material.</li>  
+  <li><strong>Organelles:</strong> Specialized structures like mitochondria, chloroplasts, and the Golgi apparatus.</li>  
+  <li><strong>Cytoskeleton:</strong> Provides structure, support, and facilitates intracellular transport.</li>  
+  <li><strong>Found in:</strong> Plants, animals, fungi, and protists.</li>  
+</ul>  
+
+<strong>Comparison Between Prokaryotes and Eukaryotes:</strong>
+
+<h4>Key Differences:</h4>  
+<ul>  
+  <li><strong>Organisms:</strong> Prokaryotes include bacteria and archaea; eukaryotes include plants, fungi, and animals.</li>  
+  <li><strong>Cell Size:</strong> Prokaryotes (0.2–10 µm); Eukaryotes (10–100 µm).</li>  
+  <li><strong>Organelles:</strong> Prokaryotes lack membrane-bound organelles; eukaryotes have many membrane-bound organelles.</li>  
+  <li><strong>Cell Division:</strong> Prokaryotes use binary fission; eukaryotes use mitosis or meiosis.</li>  
+</ul>  
+
+<strong>Significance of Differences:</strong>
+
+<ul>  
+  <li><strong>Prokaryotes:</strong> Adapted for rapid reproduction and environmental resilience.</li>  
+  <li><strong>Eukaryotes:</strong> Compartmentalization enhances efficiency in cellular functions.</li>  
+  <li><strong>Ecological Roles:</strong> Both types are essential for nutrient cycles and maintaining ecological balance.</li>  
+</ul>  
+
+<strong>Unique Adaptations in Archaea:</strong>
+
+<ul>  
+  <li><strong>Extreme Environments:</strong> Survive in hot springs, salt lakes, and hydrothermal vents.</li>  
+  <li><strong>Methanogenesis:</strong> Convert CO₂ and H₂ into methane.</li>  
+  <li><strong>Distinct RNA Sequences:</strong> Unique ribosomal and transfer RNA structures.</li>  
+</ul>  
+
+<strong>Key Takeaways:</strong>
+
+<ul>  
+  <li><strong>Prokaryotes:</strong> Simple yet essential for ecosystems.</li>  
+  <li><strong>Eukaryotes:</strong> Complex with compartmentalized cellular functions.</li>  
+  <li><strong>Both:</strong> Play foundational roles in sustaining life on Earth.</li>  
+</ul>  
+
     `
   },
   "genetics": {
