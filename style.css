@@ -43,7 +43,6 @@ header.header p {
   font-size: 1.0rem;
 
   margin: 0;
-text-align: center;
 
 }
 
@@ -75,7 +74,7 @@ text-align: center;
 
   color: #2b542c;
 
-  text-align: center;
+  
 
   border-bottom: 3px solid #4caf50;
 
@@ -91,14 +90,14 @@ text-align: center;
 
   padding: 0;
 
-  margin: 0;
-text-align: center;
+  margin-left: 0;
 
 }
 
 .topics-list ul li {
 
   margin: 15px 0;
+margin-left: 0;
 
 }
 
@@ -161,7 +160,6 @@ text-align: center;
   margin-top: 20px;
 
   color: #388e3c;
-text-align: center;
 
 }
 
@@ -172,7 +170,6 @@ text-align: center;
   margin-top: 15px;
 
   color: #6c757d;
-text-align: center;
 
 }
 
@@ -183,7 +180,6 @@ text-align: center;
   line-height: 1.6;
 
   color: #495057;
-text-align: center;
 
 }
 
@@ -191,16 +187,16 @@ text-align: center;
 
   list-style: disc;
 
-  margin-left: 20px;
+  margin-left: 10px;
 
   margin-bottom: 20px;
-text-align: center;
 
 }
 
 .topic-container ul li {
 
   margin-bottom: 10px;
+text-align: left;
 
 }
 
