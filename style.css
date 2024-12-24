@@ -90,14 +90,14 @@ header.header p {
 
   padding: 0;
 
-  margin-left: 0;
+  margin-left: 2px;
 
 }
 
 .topics-list ul li {
 
   margin: 15px 0;
-margin-left: 0;
+margin-left: 2px;
 
 }
 
@@ -123,7 +123,6 @@ margin-left: 0;
 
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 
-  text-align: center;
 
 }
 
@@ -187,7 +186,7 @@ margin-left: 0;
 
   list-style: disc;
 
-  margin-left: 10px;
+  margin-left: 2px;
 
   margin-bottom: 20px;
 
