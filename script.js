@@ -1166,7 +1166,7 @@ It helps them to get the food they need, remove the waste products and communica
            <ul>
                <li><strong>Terrestrial Ecosystems:</strong>
                      <p>These are land-based ecosystems, such as forests, grasslands, deserts, and tundras. *Na all the land areas where plant and animal dey live*. Each one has its unique biotic and abiotic characteristics, and supporting different types of organisms.</p>
-                     <center><img src="/images (13).jpeg" alt="Terrestrial Ecosystem"></center>
+                     <center><img src="/images (13).jpeg" alt="Terrestrial Ecosystem" width="200"></center>
                      <p style="text-align:center; font-size:smaller;"><i>Example of a terrestrial ecosystem.</i></p>
                 </li>
                 <li><strong>Aquatic Ecosystems:</strong>
