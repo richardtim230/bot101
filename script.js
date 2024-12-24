@@ -1130,7 +1130,7 @@ It helps them to get the food they need, remove the waste products and communica
 
         <p>Good morning, my wonderful students! Last time, we talked about how plants manage their growth with hormones, and today, we're stepping back to look at the entire system – the ecosystem, and how it’s affected by pollution. *E no be small matter o*! We’re moving from the small details inside the plant to the larger world outside, and how everything is interconnected. So, *make una settle down* and let's explore this important topic!</p>
 
-        <center><img src="/images (14).jpeg" alt="Overview of an Ecosystem" width="500"></center>
+        <center><img src="/images (14).jpeg" alt="Overview of an Ecosystem" width="200"></center>
         <p style="text-align:center; font-size:smaller;"><i>An overview of the various components of an ecosystem.</i></p>
 
         <h3>What is an Ecosystem?</h3>
@@ -1166,7 +1166,7 @@ It helps them to get the food they need, remove the waste products and communica
            <ul>
                <li><strong>Terrestrial Ecosystems:</strong>
                      <p>These are land-based ecosystems, such as forests, grasslands, deserts, and tundras. *Na all the land areas where plant and animal dey live*. Each one has its unique biotic and abiotic characteristics, and supporting different types of organisms.</p>
-                     <center><img src="/images (13).jpeg" alt="Terrestrial Ecosystem" width="400"></center>
+                     <center><img src="/images (13).jpeg" alt="Terrestrial Ecosystem"></center>
                      <p style="text-align:center; font-size:smaller;"><i>Example of a terrestrial ecosystem.</i></p>
                 </li>
                 <li><strong>Aquatic Ecosystems:</strong>
