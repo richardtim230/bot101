@@ -74,8 +74,8 @@ header.header p {
 
   color: #2b542c;
 
-  
-
+  padding: 10px;
+  background: orange;
   border-bottom: 3px solid #4caf50;
 
   display: inline-block;
@@ -90,14 +90,14 @@ header.header p {
 
   padding: 0;
 
-  margin-left: 2px;
+  margin-left: 1px;
 
 }
 
 .topics-list ul li {
 
   margin: 15px 0;
-margin-left: 2px;
+margin-left: 1px;
 
 }
 
@@ -186,7 +186,7 @@ margin-left: 2px;
 
   list-style: disc;
 
-  margin-left: 2px;
+  margin-left: 1px;
 
   margin-bottom: 20px;
 
