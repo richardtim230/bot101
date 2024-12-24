@@ -19,6 +19,181 @@ const topicsContent = {
       <p>Plants grow through intricate processes influenced by environmental factors and scientific discoveries.</p>
     `
   },
+  "prokaryotic-eukaryotic-cells": {
+    title: "Prokaryotic vs. Eukaryotic cells",
+    description: "Explore the science of plants, their structure, growth, and importance in the ecosystem.",
+    keyConcepts: [
+      "What are Eukaryotes?",
+      "What are Prokaryotes?",
+      "Differences"
+    ],
+    lecture: `
+      
+    <h2>Prokaryotic vs. Eukaryotic Cells: A Fundamental Cellular Divide</h2>
+
+        <p>Good morning, my inquisitive students! Today, we are embarking on a journey to understand the two major types of cells that make up all living things: Prokaryotic and Eukaryotic cells. 'E no be the same level at all o'! They have fundamental differences in their structure, organization, and complexity. It’s like comparing a small 'mama put' eatery to a big fancy restaurant, they all sell food, but very different in their complexity! So, 'make una listen well well', and let’s explore these fundamental differences.</p>
+
+        <center><img src="/images/prokaryotic_eukaryotic.png" alt="Comparison of Prokaryotic and Eukaryotic Cells" width="200"></center>
+        <p style="text-align:center; font-size:smaller;"><i>An overview comparing the key features of prokaryotic and eukaryotic cells.</i></p>
+
+        <h3>What are Prokaryotic Cells?</h3>
+
+            <ul>
+                <li><strong>Definition:</strong>
+                    <p>Prokaryotic cells are simple cells that lack a nucleus and other membrane-bound organelles. 'Na the simple cell wey no get plenty parts, o'! They are the first cells to have evolved, and make up organisms such as bacteria and archaea. They are generally smaller and simpler in structure compared to eukaryotic cells. They are also the most abundant cells on earth.</p>
+                </li>
+                <li><strong>Key Characteristics of Prokaryotic Cells:</strong>
+                      <p>Prokaryotic cells have several distinguishing features:
+                        <ul>
+                            <li><strong>No Nucleus:</strong> Their DNA is not enclosed within a membrane-bound nucleus, but rather it is located in a region called the nucleoid, which is usually not bounded by a membrane. 'The DNA just dey anyhow inside, no proper room o'. This is the most defining characteristic of a prokaryotic cell.</li>
+                           <li><strong>Lack of Membrane-Bound Organelles:</strong> They lack membrane-bound organelles such as mitochondria, endoplasmic reticulum, Golgi bodies, and chloroplasts. 'All those fancy things wey dey cell no dey here, na basic basic things dey'. This makes their internal structure less complex compared to eukaryotic cells.</li>
+
+                           <li><strong>Smaller Size:</strong> They are usually smaller (0.1 to 5 micrometers) than eukaryotic cells. 'Na small small cells, no be big big like the other one'. Their small size facilitates rapid reproduction and quick adaptation to new environments.</li>
+                           <li><strong>Simple Structure:</strong> Their structure is relatively simple, with few internal components. 'Na simple structure dey their body, no be too much wahala'. They have less complex organization compared to eukaryotic cells.</li>
+                           <li><strong>Cell Wall:</strong> Most prokaryotic cells have a rigid cell wall made of peptidoglycan (in bacteria) or other substances (in archaea), which provides structural support. 'Them get wall wey dey make them strong'. This cell wall is very important for maintaining the shape and protection of prokaryotic cells.</li>
+                        </ul>
+                        'Na dem be the simple cells, e no get too much story'!
+                     </p>
+                </li>
+                  <li><strong>Examples of Prokaryotic Cells:</strong>
+                      <p>Bacteria, such as <strong>E. coli</strong> and <strong>Salmonella</strong>, and archaea are the two major groups that have prokaryotic cells. 'Na those small small organism wey dey everywhere, them be prokaryotes'! They are very diverse and are found in different environments.</p>
+                   <center><img src="/images/prokaryotic_cell.png" alt="Structure of a Prokaryotic Cell" width="400"></center>
+                    <p style="text-align:center; font-size:smaller;"><i>A diagram illustrating the basic structure of a prokaryotic cell.</i></p>
+                   </li>
+            </ul>
+
+        <h3>What are Eukaryotic Cells?</h3>
+
+            <ul>
+                <li><strong>Definition:</strong>
+                    <p>Eukaryotic cells are more complex cells that possess a true nucleus and other membrane-bound organelles. 'Na the fine fine cells wey get many parts o'! They are found in protists, fungi, plants, and animals. They are generally larger and have a more complex internal organization compared to prokaryotic cells. They are generally more sophisticated in terms of structure and function.</p>
+                </li>
+                <li><strong>Key Characteristics of Eukaryotic Cells:</strong>
+                     <p>Eukaryotic cells have several distinguishing features:
+                         <ul>
+                            <li><strong>Nucleus:</strong> Their DNA is enclosed within a membrane-bound nucleus. 'The DNA dey inside a proper room, with walls o'. This protects the DNA and also helps to control cell activities.</li>
+                           <li><strong>Membrane-Bound Organelles:</strong> They contain various membrane-bound organelles, such as mitochondria, endoplasmic reticulum, Golgi bodies, lysosomes, peroxisomes, and chloroplasts (in plant cells). 'Dem get all those fine things for their body, each one with its own work'. These organelles carry out various metabolic functions.</li>
+                           <li><strong>Larger Size:</strong> They are usually larger (10 to 100 micrometers) than prokaryotic cells. 'Na big big cells, dem no be small like the other one'. Their larger size enables them to carry out a more diverse array of functions.</li>
+                           <li><strong>Complex Structure:</strong> They have a more complex internal structure compared to prokaryotic cells, including a cytoskeleton. 'Their body get plenty parts, e no be anyhow structure'. Their complexity enables efficient organization of cellular processes.</li>
+                           <li><strong>Cell Wall:</strong> Some eukaryotic cells, such as plant cells and fungal cells, have a cell wall, but their composition differs from that of prokaryotic cell walls. 'Some of them get wall, but no be the same type of wall as the other one'. Animal cells do not have cell walls.</li>
+                        </ul>
+                         'Na dem be the complex cells, e get plenty inside, o'!
+                     </p>
+                 </li>
+                 <li><strong>Examples of Eukaryotic Cells:</strong>
+                      <p>Eukaryotic cells are found in all protists, fungi, plants, and animals. 'Na them be the cell for all of us, from plants to animal to human'! They form the basis of multicellularity and are also found in many single celled organisms.</p>
+                    <center><img src="/images/eukaryotic_cell.png" alt="Structure of a Eukaryotic Cell" width="200"></center>
+                    <p style="text-align:center; font-size:smaller;"><i>A diagram illustrating the complex structure of a eukaryotic cell.</i></p>
+                 </li>
+            </ul>
+
+        <h3>Key Differences in Tabular Form</h3>
+              <p>
+                  To make it clearer, let’s summarise the key differences in a table:
+                  <br />
+                <table border="1">
+                    <tr>
+                         <th>Feature</th>
+                        <th>Prokaryotic Cell</th>
+                        <th>Eukaryotic Cell</th>
+                    </tr>
+                     <tr>
+                         <td>Nucleus</td>
+                         <td>Absent (DNA in nucleoid region)</td>
+                         <td>Present (DNA enclosed in nucleus)</td>
+                     </tr>
+                     <tr>
+                         <td>Membrane-bound Organelles</td>
+                         <td>Absent</td>
+                         <td>Present (mitochondria, ER, Golgi, etc.)</td>
+                     </tr>
+                     <tr>
+                         <td>Size</td>
+                         <td>Smaller (0.1 - 5 μm)</td>
+                        <td>Larger (10 - 100 μm)</td>
+                    </tr>
+                    <tr>
+                         <td>Structure</td>
+                        <td>Simple</td>
+                        <td>Complex, with cytoskeleton</td>
+                   </tr>
+                    <tr>
+                       <td>Cell Wall</td>
+                        <td>Present in most (peptidoglycan or other)</td>
+                        <td>Present in plants and fungi (cellulose or chitin), absent in animals</td>
+                    </tr>
+                  <tr>
+                        <td>DNA</td>
+                        <td>Circular DNA, usually not associated with histones</td>
+                        <td>Linear DNA associated with histones</td>
+                   </tr>
+                   <tr>
+                        <td>Ribosomes</td>
+                        <td>Smaller 70S Ribosomes</td>
+                        <td>Larger 80S Ribosomes in cytoplasm, 70S in organelles</td>
+                   </tr>
+                   <tr>
+                       <td>Cell Division</td>
+                        <td>Binary fission</td>
+                         <td>Mitosis and meiosis</td>
+                   </tr>
+                  <tr>
+                       <td>Examples</td>
+                        <td>Bacteria and archaea</td>
+                         <td>Protists, fungi, plants, and animals</td>
+                   </tr>
+                </table>
+              </p>
+
+        <h3>Evolutionary Significance</h3>
+
+            <ul>
+              <li><strong>Prokaryotes:</strong>
+                    <p>Prokaryotic cells were the first cells to evolve on Earth. They are therefore older and simpler than eukaryotic cells. *Na them be the first 'born' for cell family*. They are the most numerous and diverse forms of life and have been around for billions of years, they are key to many biogeochemical cycles.</p>
+                </li>
+              <li><strong>Eukaryotes:</strong>
+                    <p>Eukaryotic cells are believed to have evolved from prokaryotic cells through a process called endosymbiosis, where smaller prokaryotic cells were engulfed by larger ones, becoming organelles like mitochondria and chloroplasts. *Na like when small pikin join big pikin family*. This evolutionary leap allowed for the development of multicellular organisms.</p>
+                </li>
+            </ul>
+
+        <h3>Functional Differences</h3>
+
+           <ul>
+                <li><strong>Metabolic Diversity:</strong>
+                     <p>Prokaryotes have a wider range of metabolic capabilities compared to eukaryotes, allowing them to inhabit a variety of environments, even harsh ones. *Them fit live any where at all, dem no dey fear any thing*. They are very versatile and can do many things that eukaryotic cells cannot do.</p>
+                 </li>
+                <li><strong>Cellular Organization:</strong>
+                     <p>Eukaryotes have more complex cellular organization that enables them to carry out many specific functions that prokaryotes cannot. *Their body get plenty parts, each with its own work*. This high level of organization is necessary for complex processes such as cell communication and multicellularity.</p>
+                </li>
+            </ul>
+          <h3>Mnemonic For Remembering Key Differences</h3>
+            <ul>
+                <li><strong>'P'ro'N'o 'M'embrane 'S'imple 'W'all; 'E'u'N'ucleus 'M'ultiple 'C'omplex 'D'istinct:</strong>    This will help you remember the key features of prokaryotic (no nucleus, no membrane-bound organelles, simple structure, cell wall) and eukaryotic cells (nucleus, multiple membrane-bound organelles, complex structure, distinct DNA organization).</li>
+          </ul>
+
+       <h3>Key Points to Remember</h3>
+
+            <ul>
+                <li>Prokaryotic cells are simpler, smaller, and lack a nucleus and membrane-bound organelles.</li>
+                <li>Eukaryotic cells are more complex, larger, and have a nucleus and membrane-bound organelles.</li>
+                <li>Prokaryotic cells include bacteria and archaea, while eukaryotic cells include protists, fungi, plants, and animals.</li>
+                <li>Eukaryotic cells evolved from prokaryotic cells through endosymbiosis.</li>
+                <li>Prokaryotes have diverse metabolic capabilities, while eukaryotes have more complex cellular organization.</li>
+            </ul>
+          <h3>Questions for You to Ponder</h3>
+            <ul>
+                 <li>How did the process of endosymbiosis contribute to the evolution of eukaryotic cells?</li>
+                 <li>If a cell lacks a cell wall, does that automatically make it a eukaryotic cell? Explain your answer.</li>
+                <li>What advantages do prokaryotic cells have because of their simple structure, and where might they struggle?</li>
+                <li>How does the presence of a nucleus in eukaryotic cells benefit them compared to the lack of one in prokaryotic cells?</li>
+               <li>How do prokaryotic and eukaryotic cells differ in terms of their method of cell division, and what are the implications of these differences?</li>
+            </ul>
+
+    <p>So, my dear students, you can see that while both prokaryotic and eukaryotic cells are fundamental units of life, they are very different in many ways! 'E no be the same at all o'! These differences are very important in the way each group of organism functions, and contributes to the overall diversity of life on our planet. Understanding these differences is a foundational concept in biology and help us appreciate the different ways life can exist.</p>
+
+    <p>For your next class, we’ll discuss the structure and function of cell organelles in greater detail, so make sure you come prepared. Thank you all, and may your understanding of cells continue to grow! </p>
+    `
+  },
   
   "cell-division": {
     title: "Cell division - mitosis, growth and differentiation",
