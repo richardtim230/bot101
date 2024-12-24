@@ -19,6 +19,152 @@ const topicsContent = {
       <p>Plants grow through intricate processes influenced by environmental factors and scientific discoveries.</p>
     `
   },
+  
+  "cell-division": {
+    title: "Cell division - mitosis, growth and differentiation",
+    description: "Explore the science of plants, their structure, growth, and importance in the ecosystem.",
+    keyConcepts: [
+      "Cell Division",
+      "Growth and ways of science",
+      "Differentiation"
+    ],
+    lecture: `
+      
+    <h2>Cell Division: Mitosis, Growth, and Differentiation</h2>
+
+        <p>Good morning, my wonderful students! Today, we’re going to explore how cells divide through mitosis, and how they grow and differentiate. 'E no be magic o', but it’s a very precise process that makes sure new cells are made for growth, repair, and replacement. Mitosis is the process by which cells replicate their DNA and create new cells that are similar to the old ones. Then, we will see how cells grow and become specialized to perform specific functions. So, 'make una pay good attention' and let’s explore these fascinating processes.</p>
+
+        <center><img src="/images/mitosis_overview.png" alt="Overview of Mitosis" width="500"></center>
+        <p style="text-align:center; font-size:smaller;"><i>An overview of the different phases of mitosis.</i></p>
+
+        <h3>What is Mitosis?</h3>
+
+            <ul>
+                <li><strong>Definition:</strong>
+                     <p>Mitosis is a type of cell division that results in two genetically identical daughter cells. 'Na like making two copies of the original cell, o'. It’s used for growth, repair, and asexual reproduction in many organisms. It is a key process in the cell cycle.</p>
+                </li>
+                <li><strong>Purpose of Mitosis:</strong>
+                      <p>The main purposes of mitosis are:
+                        <ul>
+                           <li><strong>Growth:</strong> To increase the number of cells for growth in multicellular organisms. 'Na so we take grow bigger and tall pass'.</li>
+                            <li><strong>Repair:</strong> To replace damaged or worn-out cells. 'Na so body take dey fix itself when we injure ourselves'.</li>
+                            <li><strong>Asexual Reproduction:</strong> To create new individuals in some organisms through cell division. 'Na how some organism dey make small pikin for themselves without any papa'.</li>
+                        </ul>
+                         'E get many important reasons why this thing dey happen, o'!
+                     </p>
+                </li>
+                <li><strong>The Stages of Mitosis:</strong>
+                     <p>Mitosis is divided into four main stages:
+                        <ul>
+
+                            <li><strong>Prophase:</strong> The chromosomes condense and become visible, the nuclear envelope breaks down, and the spindle fibers form. 'Na here the cell dey prepare to divide, the chromosomes dey get ready'.</li>
+                           <li><strong>Metaphase:</strong> The chromosomes align in the middle of the cell (at the metaphase plate), attached to spindle fibers. 'Na here the chromosomes dey line up for middle of the cell, ready to separate'.</li>
+                           <li><strong>Anaphase:</strong> The sister chromatids are separated and pulled to opposite ends of the cell. 'Na here the chromosome dey separate and dey move to different sides'.</li>
+                            <li><strong>Telophase:</strong> The chromosomes reach the opposite ends of the cell, the nuclear envelopes reform, and the chromosomes begin to decondense. 'Na here the two cells dey form and the nuclear materials dey appear again'.</li>
+                        </ul>
+                         'E dey like a well-organized dance with different stages, o'!
+                       <center><img src="/images/mitosis_phases.png" alt="Phases of Mitosis" width="200"></center>
+                       <p style="text-align:center; font-size:smaller;"><i>A closer look at the different stages of mitosis.</i></p>
+                     </p>
+                </li>
+                 <li><strong>Cytokinesis:</strong>
+                      <p>This process usually occurs concurrently with telophase, and it is the division of the cytoplasm which results in two separate daughter cells. 'Na here the main cell dey divide and separate into two, after the nucleus don form properly'. This completes cell division, ensuring each new cell has a full complement of cellular materials.
+                      </p>
+                   </li>
+             </ul>
+
+        <h3>Growth and Cell Division</h3>
+            <ul>
+                <li><strong>Growth:</strong>
+                    <p>Growth refers to an increase in size and cell number in an organism. 'Na how things dey grow big and tall'. Cell division (mitosis) is essential for growth in multicellular organisms. It ensures that the body increases in size, as required by different developmental stages. </p>
+                </li>
+                <li><strong>Cell Cycle:</strong>
+                    <p>Cell division is a part of a repeating series of events called the cell cycle, which includes interphase (cell growth and DNA replication) and the mitotic phase (mitosis and cytokinesis). 'Na so cell dey follow their pattern from one division to another'. The cell cycle ensures a regular and organized division of cells.
+                     </p>
+                 </li>
+            </ul>
+       <h3>What is Differentiation?</h3>
+
+            <ul>
+                <li><strong>Definition:</strong>
+                    <p>Differentiation is the process by which cells become specialized to perform specific functions in an organism. 'Na how cells dey learn how to do different work o'. It involves changes in cell structure and function to adapt to specific needs. This results in the different types of cells that form an organism.
+                     </p>
+               </li>
+               <li><strong>Cell Specialization:</strong>
+                     <p>During differentiation, cells develop specialized structures and functions. For example:
+                         <ul>
+                             <li><strong>Muscle cells:</strong> Become specialized for contraction. 'Na them dey make us move our body'.</li>
+                             <li><strong>Nerve cells:</strong> Become specialized for transmitting electrical signals. 'Na them dey send signals for the body'.</li>
+                             <li><strong>Red blood cells:</strong> Become specialized for carrying oxygen. 'Na them dey carry oxygen for our blood'.</li>
+                              <li><strong>Plant cells:</strong> Can become specialized for photosynthesis, support, or transport. 'Na different different work for plant too, o'!</li>
+                          </ul>
+                           'Each cell get its own specific role, o'!
+                     </p>
+                 </li>
+                 <li><strong>Gene Expression:</strong>
+                      <p>Differentiation involves changes in gene expression. Some genes are activated, and others are inactivated, leading to the cell acquiring specialized functions. 'Na so cells take dey learn how to do different work, by controlling their genes'. This gene expression is tightly regulated to ensure a precise differentiation process.</p>
+                  </li>
+            </ul>
+
+       <h3>The Relationship Between Cell Division, Growth, and Differentiation</h3>
+           <ul>
+               <li><strong>Interconnected Processes:</strong>
+                     <p>Cell division (mitosis), growth, and differentiation are interconnected processes that work together to enable the development and maintenance of an organism. 'Na like different parts of a car engine, they work together to make car move'. Without these processes, organism will not grow, develop, or function properly.</p>
+                 </li>
+               <li><strong>Development:</strong>
+                      <p>During development, cell division produces new cells, growth increases cell size and number, and differentiation results in cells specializing to form tissues and organs. 'Na so small pikin take dey become big person, cells dey multiply, grow, and change to different form'. This is a highly coordinated process from the start of life. </p>
+                 </li>
+               <li><strong>Maintenance and Repair:</strong>
+                      <p>In adult organisms, cell division continues to replace old or damaged cells, while differentiation ensures that the body's tissues and organs function properly. 'Na so our body take dey repair itself, and continue to function very well'. These processes happen all the time in adult organisms. </p>
+                 </li>
+            </ul>
+       <h3>Factors Affecting Cell Division, Growth, and Differentiation</h3>
+
+             <ul>
+                <li><strong>Genetic Factors:</strong>
+                     <p>Genes control the cell cycle, growth, and differentiation processes. 'Na genes dey control how cells dey divide, grow and change'. Mutation in genes may lead to abnormal cell division, and other defects in these processes, causing different problems in the organism.</p>
+                 </li>
+                <li><strong>Growth Factors:</strong>
+                      <p>Specific growth factors (proteins) stimulate cell division and growth. 'Na like fuel for cells, e dey make them divide and grow properly'. These signals are essential to make sure that the cell cycle occur normally. They also control the number of times a cell may divide.</p>
+                 </li>
+                <li><strong>Environmental Factors:</strong>
+                       <p>External factors like nutrients, temperature, and toxins can influence cell division, growth, and differentiation. 'What dey outside the body can affect how cell dey behave'. For example, an unhealthy diet can affect cell health.</p>
+                 </li>
+            </ul>
+
+        <h3>Mnemonic for Remembering the Phases of Mitosis</h3>
+
+             <ul>
+                  <li><strong>'P'lease 'M'ake 'A'll 'T'rees 'C'areful:</strong> This will help you remember the main stages of mitosis: Prophase, Metaphase, Anaphase, Telophase, and also the Cytokinesis. 'Na so you go remember the dance of mitosis, o'!
+                    </li>
+             </ul>
+
+        <h3>Key Points to Remember</h3>
+            <ul>
+                 <li>Mitosis is a type of cell division that results in two genetically identical daughter cells.</li>
+                  <li>Mitosis is used for growth, repair, and asexual reproduction.</li>
+                  <li>Mitosis is divided into Prophase, Metaphase, Anaphase, Telophase and is followed by Cytokinesis.</li>
+                <li>Growth refers to an increase in cell size and number, while differentiation is the process where cells become specialized.</li>
+               <li>Cell division, growth, and differentiation are interconnected processes essential for development and maintenance of an organism.</li>
+              <li>Cell division, growth, and differentiation are influenced by genetic, environmental factors and also by growth factors.</li>
+            </ul>
+        <h3>Questions For You to Think About</h3>
+            <ul>
+                 <li>How would errors in mitosis affect the cells produced, and what are the implications for an organism?</li>
+                <li>How do you think that growth factors can play a role in cancer development, and what are the future avenues for cancer treatment?</li>
+                <li>How does the process of differentiation contribute to the formation of complex organs, and what challenges do scientists face when trying to replicate this process in a lab?</li>
+               <li>If the process of differentiation is disrupted in an adult organism, what are some of the consequences, and how can this be corrected?</li>
+               <li>Why is it so important that the new cells produced by mitosis are identical to the original cell, and what would happen if this was not the case?</li>
+            </ul>
+
+    <p>So, my dear students, you can see that cell division through mitosis, growth, and differentiation are fundamental processes for life! 'E no be play play o'! They ensure that organisms grow, repair themselves, and develop specialized functions to perform various activities. Understanding these processes is very important for biology and is essential for medical research. </p>
+
+    <p>For your next class, make sure you read about how cell division is regulated. Come prepared with plenty of questions! Thank you all, and may your journey into cell biology be fruitful! </p>
+
+
+
+    `
+  },
   "cell-structure": {
     title: "The Cell - Structure & Function",
     description: "Learn about the fundamental unit of life, its components, and their functions.",
